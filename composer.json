@@ -20,7 +20,7 @@
     ],
     "require": {
 	"php": ">=5.5.0",
-	"tobeorla/nginx-config-processor": "dev-patch-1",
+	"tobeorla/nginx-config-processor": "^0.2.1",
         "tetreum/perfect-print": "dev-master",
         "tetreum/apache-vhost-processor": "dev-master"
     },
